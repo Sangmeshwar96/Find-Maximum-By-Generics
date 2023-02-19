@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\FindMaximum\FindMaximum\obj\Debug\net6.0\FindMaximum.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\FindMaximum\FindMaximum\obj\Debug\net6.0\FindMaximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\FindMaximum\FindMaximum\obj\Debug\net6.0\FindMaximum.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FindMaximum\FindMaximum\obj\Debug\net6.0\FindMaximum.AssemblyInfo.cs
+C:\Users\hp\source\repos\FindMaximum\FindMaximum\obj\Debug\net6.0\FindMaximum.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FindMaximum\FindMaximum\bin\Debug\net6.0\FindMaximum.exe
+C:\Users\hp\source\repos\FindMaximum\FindMaximum\bin\Debug\net6.0\FindMaximum.deps.json
+C:\Users\hp\source\repos\FindMaximum\FindMaximum\bin\Debug\net6.0\FindMaximum.runtimeconfig.json
+C:\Users\hp\source\repos\FindMaximum\FindMaximum\bin\Debug\net6.0\FindMaximum.dll
+C:\Users\hp\source\repos\FindMaximum\FindMaximum\bin\Debug\net6.0\FindMaximum.pdb
+C:\Users\hp\source\repos\FindMaximum\FindMaximum\obj\Debug\net6.0\FindMaximum.dll
+C:\Users\hp\source\repos\FindMaximum\FindMaximum\obj\Debug\net6.0\refint\FindMaximum.dll
+C:\Users\hp\source\repos\FindMaximum\FindMaximum\obj\Debug\net6.0\FindMaximum.pdb
+C:\Users\hp\source\repos\FindMaximum\FindMaximum\obj\Debug\net6.0\FindMaximum.genruntimeconfig.cache
+C:\Users\hp\source\repos\FindMaximum\FindMaximum\obj\Debug\net6.0\ref\FindMaximum.dll
