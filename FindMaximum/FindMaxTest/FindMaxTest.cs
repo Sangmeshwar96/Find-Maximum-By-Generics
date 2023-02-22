@@ -8,6 +8,7 @@ namespace FindMaxTest
     {
         FindMaxGeneric<int> intfindMaximum = new FindMaxGeneric<int>();
         FindMaxGeneric<float> floatfindMaximum = new FindMaxGeneric<float>();
+        FindMaxGeneric<string> stringfindMaximum = new FindMaxGeneric<string>();
         [Test]
         public void GivenMaxFirstNum_WhenAnalysed_ShouldReturnFirstMax()
         {
@@ -48,6 +49,13 @@ namespace FindMaxTest
         {
             float result = floatfindMaximum.FindMaximumGeneric(26.21f, 36.23f, 45.36f);
             Assert.AreEqual(45.36f, result);
+            //Assert.Pass();
+        }
+        [Test]
+        public void GivenMaxFirstString_WhenAnalysed_ShouldReturnFirstMax()
+        {
+            string result = stringfindMaximum.FindMaximumGeneric("Vaibhav","Ram" , "Sangmeshwar");
+            Assert.AreEqual("Vaibhav", result);
             //Assert.Pass();
         }
     }
