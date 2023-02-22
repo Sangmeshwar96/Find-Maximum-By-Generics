@@ -65,5 +65,12 @@ namespace FindMaxTest
             Assert.AreEqual("Vaibhav", result);
             //Assert.Pass();
         }
+        [Test]
+        public void GivenMaxThirdString_WhenAnalysed_ShouldReturnThirdMax()
+        {
+            string result = stringfindMaximum.FindMaximumGeneric("Ram", "Sangmeshwar", "Vaibhav");
+            Assert.AreEqual("Vaibhav", result);
+            //Assert.Pass();
+        }
     }
 }
